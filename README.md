@@ -9,4 +9,5 @@ This is the implementation of Deep Reformulated Laplacian Tone Mapping.
 * Tensorflow 1.9.0
 
 ## Instructions
-1. 
+1. Download [pretrained vgg16.npy](https://github.com/machrisaa/tensorflow-vgg) and put it under '/laplacianet/loss/pretrained/'
+2. 
