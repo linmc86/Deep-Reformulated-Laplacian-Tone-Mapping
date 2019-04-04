@@ -1,6 +1,12 @@
 # Deep Reformulated Laplacian Tone Mapping
 
-This is the implementation of Deep Reformulated Laplacian Tone Mapping. ![](/home/ict419/PycharmProjects/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png)
+This is the implementation of Deep Reformulated Laplacian Tone Mapping. 
+
+|result 1| result 2| result 3| result 4|
+| :---: | :---: | :---: | :---: |
+|![9C4A0221-feaaa06d6f_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png) | ![9C4A1511-702551eb64_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png) | ![9C4A3782-70b3083cee_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png)| ![9C4A4301-9fd6373e60_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A4301-9fd6373e60_predict.png) |
+
+
 
 ## Prerequisites for demo
 * [Pycharm 2019](https://www.jetbrains.com/pycharm/download/#section=linux)
@@ -18,9 +24,9 @@ Download this repo.
 
 ### Network setup
 1. Download [pretrained vgg16.npy](https://github.com/machrisaa/tensorflow-vgg) and place it under '/laplacianet/loss/pretrained/' folder.
-2. Download the [checkpoint](https://pan.baidu.com/s/1dcMH5UhOsqf0bijQBEjYrg)(password:9v3t if required).  Unzip it and place all 4 files under '/laplacianet/checkpoint/demo/' folder.  
-3. Download the [demo tfrecord](https://pan.baidu.com/s/1WLMhB5jytr1EH_jGkCACvw)(password:mcl0 if required).  Unzip it and place it under '/laplacianet/dataset/tfrecord/' folder.  
-4. (optional) Download the [WDR image in demo](https://pan.baidu.com/s/1SzecOWvAR1AjHafKrdkGJA)(password:frd0 if required).  Unzip it and place it under '/laplacianet/dataset/demo/' folder.  
+2. Download the [checkpoint](https://pan.baidu.com/s/1dcMH5UhOsqf0bijQBEjYrg)(password: 9v3t if required).  Unzip it and place all 4 files under '/laplacianet/checkpoint/demo/' folder.  
+3. Download the [demo tfrecord](https://pan.baidu.com/s/1WLMhB5jytr1EH_jGkCACvw)(password: mcl0 if required).  Unzip it and place it under '/laplacianet/dataset/tfrecord/' folder.  
+4. (optional) Download the [WDR image in demo](https://pan.baidu.com/s/1SzecOWvAR1AjHafKrdkGJA)(password: frd0 if required).  Unzip it and place it under '/laplacianet/dataset/demo/' folder.  
 
 `If it requires the app to download the files above, follow the instruction on the prompt window to setup an account.`
 
