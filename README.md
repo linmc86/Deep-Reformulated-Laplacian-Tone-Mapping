@@ -37,7 +37,7 @@ Download this repo.
 3. In the virtual environment under the same panel, install the following dependencies:
   - opencv-python. v 3.4.4.19
   - tensorflow-gpu. v 1.9.0
-  - imageio. v 2.4.1
+  - imageio. v 2.4.1 (need to install plugin to process hdr extension.  Use the script ```imageio_download_bin freeimage``` in Pycharm terminal)
   - easydict. v 1.9
   - scipy. v 1.1.0
   - matplotlib. v 2.2.3
