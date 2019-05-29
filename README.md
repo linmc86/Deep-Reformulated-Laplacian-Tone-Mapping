@@ -3,7 +3,7 @@
 This is the implementation of Deep Reformulated Laplacian Tone Mapping. 
 
 
-<img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png" width="434"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png" width="434">
+<img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png" width="430"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png" width="430">
 
 <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png" width="434"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A4301-9fd6373e60_predict.png" width="434">
 
