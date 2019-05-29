@@ -2,9 +2,10 @@
 
 This is the implementation of Deep Reformulated Laplacian Tone Mapping. 
 
-|result 1| result 2| result 3| result 4|
-| :---: | :---: | :---: | :---: |
-|![9C4A0221-feaaa06d6f_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png) | ![9C4A1511-702551eb64_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png) | ![9C4A3782-70b3083cee_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png)| ![9C4A4301-9fd6373e60_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A4301-9fd6373e60_predict.png) |
+
+<img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png" width="434"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png" width="434">
+
+<img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png" width="434"> <img src="https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A4301-9fd6373e60_predict.png" width="434">
 
 
 
@@ -56,8 +57,10 @@ In Pycharm, run `/laplacianet/operation/test.py` file.
 2. run `/laplacianet/operation/test.py`.
 
 
-
-
+![9C4A0221-feaaa06d6f_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A0221-feaaa06d6f_predict.png)
+![9C4A1511-702551eb64_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A1511-702551eb64_predict.png)
+![9C4A3782-70b3083cee_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A3782-70b3083cee_predict.png)
+![9C4A4301-9fd6373e60_predict](https://raw.githubusercontent.com/linmc-86/Deep-Reformulated-Laplacian-Tone-Mapping/master/laplacianet/dataset/result/9C4A4301-9fd6373e60_predict.png)
 
 
 
